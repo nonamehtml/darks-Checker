@@ -44,4 +44,4 @@ Special thanks to Team Darks for developing this CC checker application.
 
 ## Contact
 
-For any inquiries or support, please contact Team Darks at teamdarks@example.com.
+For any inquiries or support, please contact Team Darks at Telegram @darkdevil169
